@@ -16,6 +16,14 @@ curl -fsSL https://raw.githubusercontent.com/janvodvarka/focuset-releases/main/i
 brew install --cask janvodvarka/tap/focuset
 ```
 
+Already installed Focuset from the DMG? Homebrew stops with "there is already an App at /Applications/Focuset.app". Replace it with the current version:
+
+```
+brew install --cask --force janvodvarka/tap/focuset
+```
+
+(`--adopt` also works, but keeps the version you have until the next in-app update.)
+
 **Or by hand:** open the DMG and drag Focuset to Applications. Focuset is not notarized by Apple, so the first launch needs one approval: **System Settings › Privacy & Security › Open Anyway**.
 
 Then allow Focuset in **Privacy & Security › Accessibility** when it asks.
