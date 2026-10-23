@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.12.2</title>
+      <pubDate>Fri, 23 Oct 2026 08:38:43 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.12.2 fixes Red light.</p><ul><li>Fixed:** on some Macs Red light turned the screen white. It now warms the display itself, the way night-light apps do, so it works on every Mac, including the menu bar. Turning it off or quitting Focuset restores your normal colors.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.12.2/Focuset-0.12.2-macOS.zip" length="4001024" type="application/octet-stream" sparkle:edSignature="ro+ltMM5dfcIUZ29N5fqvR+C7VVDzBYxcfM3nFRHJMFiSDiKhq2zvpJHXED1jojRwwquiEZs1XChBhKg6u2PCA=="/>
+    </item>
+    <item>
       <title>Focuset 0.12.1</title>
       <pubDate>Fri, 23 Oct 2026 08:27:39 +0000</pubDate>
       <sparkle:version>30</sparkle:version>
