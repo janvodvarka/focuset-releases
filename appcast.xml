@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.12.1</title>
+      <pubDate>Fri, 23 Oct 2026 08:27:39 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.12.1 keeps popups from breaking your focus.</p><ul><li>Dialogs stay sharp.** Save and Open panels, alerts, Get Info and other popups of the app you focus on stay sharp next to its window. They no longer pause the focus or, with Follow click, replace your pair. When they close, everything is as it was.</li><li>System prompts don&#x27;t move the focus.** Password and permission prompts, Spotlight, Raycast, the emoji picker and Quick Look stay sharp and leave your focus alone.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.12.1/Focuset-0.12.1-macOS.zip" length="3997039" type="application/octet-stream" sparkle:edSignature="u5Fm3gn6eMTns4J+Do4fQyw//8oeq5CvrcaHp0la9s8oOluLaCPngz63k0Xv0dl9uZaUmyUVjiVmvAYdFGDuDg=="/>
+    </item>
+    <item>
       <title>Focuset 0.12.0</title>
       <pubDate>Fri, 23 Oct 2026 08:20:26 +0000</pubDate>
       <sparkle:version>29</sparkle:version>
