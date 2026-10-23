@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.11.4</title>
+      <pubDate>Fri, 23 Oct 2026 07:48:13 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.11.4 fixes Follow click on Macs with a visible Dock.</p><ul><li>Fixed:** with the Dock visible, Focuset mistook it for Mission Control and held the effect back for about a minute after each change. Follow click and new focus now apply immediately.</li><li>If Accessibility cannot read an app&#x27;s windows, Follow click still works using the window order.</li><li>Copy diagnostics includes more detail, and `log show --last 10m --predicate &#x27;subsystem == &quot;app.focuset.mac&quot;&#x27;` explains why focus was held back.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.11.4/Focuset-0.11.4-macOS.zip" length="3841623" type="application/octet-stream" sparkle:edSignature="j95fjzPDGxTqblUt629pyzApOdEg9v/UrINB7jIwr3j0143fWbM9roedHBC+oItsm9QT5gEHHWFd++oJxAVgAQ=="/>
+    </item>
+    <item>
       <title>Focuset 0.11.3</title>
       <pubDate>Fri, 23 Oct 2026 07:35:18 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
