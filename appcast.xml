@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.11.2</title>
+      <pubDate>Fri, 23 Oct 2026 07:05:47 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.11.2 makes the menu bar controls respond right away.</p><ul><li>Follow click starts at once.** Turning it on in the menu bar now focuses the window you were in, instead of waiting for your next click.</li><li>Blur, Dimming and Grain sliders** are always in the menu bar, also before you start focusing.</li><li>A short hint explains that the effect switches apply while focusing.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.11.2/Focuset-0.11.2-macOS.zip" length="3815903" type="application/octet-stream" sparkle:edSignature="HKS7rwXcNdDywzpuRZ4RkFC+fWy6Q8YWxvc5bAw4VxyHEmWRac/YHrgyuKld6C7GaVgpSilVw33fg++pmmbjCg=="/>
+    </item>
+    <item>
       <title>Focuset 0.11.1</title>
       <pubDate>Fri, 23 Oct 2026 05:20:49 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
