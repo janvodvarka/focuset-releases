@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.12.0</title>
+      <pubDate>Fri, 23 Oct 2026 08:20:26 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.12.0 puts the everyday controls right on the floating bar.</p><ul><li>Strength dial on the bar.** Drag it up or down (or scroll) to make the effect stronger or softer; blur and dimming keep their balance. Hold Option to change only the dimming. Double-click resets.</li><li>Three switches on the bar:** Follow click, Grayscale and Red light.</li><li>Red light** warms the whole screen for the evening, also without focus. Set its strength in Settings › Effect. The menu bar stays readable.</li><li>Keyboard shortcuts:** ⌃⌥P pauses or resumes, ⌃⌥S saves the focused apps as a set, ⌃⌥F turns Follow click on or off. They work on any keyboard layout, including Czech.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.12.0/Focuset-0.12.0-macOS.zip" length="3984111" type="application/octet-stream" sparkle:edSignature="C7QgqA1g44kQAibrISgTKNNid9sXjC4wysZC7oLIFNBFaZDnS3xeK3Tc/BtHlcjjwPOg+1IFBSm6NTup2J7dAg=="/>
+    </item>
+    <item>
       <title>Focuset 0.11.4</title>
       <pubDate>Fri, 23 Oct 2026 07:48:13 +0000</pubDate>
       <sparkle:version>28</sparkle:version>
