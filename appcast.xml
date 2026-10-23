@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.11.3</title>
+      <pubDate>Fri, 23 Oct 2026 07:35:18 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.11.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.11.3 makes adding windows and switching between them easier.</p><ul><li>⌃⌥ click adds or removes any window**, also while you are focused on one window. Hold ⌃⌥ and the window under the pointer lights up green (click to add) or red (click to remove).</li><li>Pairs come back.** With Follow click, clicking outside a pair or set focuses that window; clicking any window of the pair again brings the whole pair back.</li><li>Fixed:** installing a new version over a running Focuset (Homebrew, the install script or a manual copy) could leave the old copy running next to the new one, and Focuset stopped working. The new copy now closes the old one.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.11.3/Focuset-0.11.3-macOS.zip" length="3833061" type="application/octet-stream" sparkle:edSignature="9XtaJ/ZLQZcw9agwqV7Wopw8AO16qeVARftLq6ko5epBgz1wdcpwRnKNCLuUBgDXGbc/rOvN/5uOSMLMDLkxDQ=="/>
+    </item>
+    <item>
       <title>Focuset 0.11.2</title>
       <pubDate>Fri, 23 Oct 2026 07:05:47 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
