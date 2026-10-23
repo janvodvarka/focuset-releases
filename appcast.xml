@@ -6,6 +6,15 @@
     <description>Focuset updates</description>
     <language>en</language>
     <item>
+      <title>Focuset 0.11.1</title>
+      <pubDate>Fri, 23 Oct 2026 05:20:49 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Focuset 0.11.1 fixes automatic updates.</p><ul><li>Fixed:** 0.11.0 could not reach its update feed. From 0.11.1 on, Focuset finds new versions by itself again.</li></ul>]]></description>
+      <enclosure url="https://github.com/janvodvarka/focuset-releases/releases/download/v0.11.1/Focuset-0.11.1-macOS.zip" length="3812677" type="application/octet-stream" sparkle:edSignature="6FIdgoPXySBZDx2n0Q4CWbbt1ZD+vci2reEKZ4+goAIX9/UszeHHuLc/mfrfOS0zEe6gIN8tXJ96pr8pUX3zAg=="/>
+    </item>
+    <item>
       <title>Focuset 0.11.0</title>
       <pubDate>Fri, 23 Oct 2026 05:18:24 +0000</pubDate>
       <sparkle:version>24</sparkle:version>
